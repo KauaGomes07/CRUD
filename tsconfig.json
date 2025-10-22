@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "esModuleInterop": true,
+        "skipLibCheck": true,
+        "strict": true,
+        "lib": ["ESNext"],
+        "target": "esnext",
+        "module": "nodenext",
+        "moduleResolution": "nodenext",
+        "resolveJsonModule": true,
+        "outDir": "build"
+    },
+    "exclude": ["node_modules"]
+}
